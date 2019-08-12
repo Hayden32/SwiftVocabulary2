@@ -28,4 +28,8 @@ class DefinitionViewController: UIViewController {
             wordDefinitionTextView.text = vocabWord.definition
         }
     }
+    
+    
+    
+    
 }
